@@ -1,3 +1,3 @@
 # trackly-backend
 
-Trackly is a time tracking tool for dev teams
+- Bug fix for mobile timer
